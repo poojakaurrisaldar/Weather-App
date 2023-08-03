@@ -1,6 +1,13 @@
 body {
   background-color: #7ca2c8;
 }
+.author {
+  display: block;
+  text-align: center;
+}
+.code-link {
+  font-weight: bold;
+}
 strong {
   font-size: 50px;
 }
